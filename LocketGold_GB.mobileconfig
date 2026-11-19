@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://cloudflare-dns.com/dns-query</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Secure DNS over HTTPS using Cloudflare DNS. This does not unlock Locket Gold or bypass subscriptions.</string>
+			<key>PayloadDisplayName</key>
+			<string>LocketGold_GB</string>
+			<key>PayloadIdentifier</key>
+			<string>vn.gb.locketgold.dns</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>06AF9275-71C0-4194-A15B-5A7EB71953CF</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Secure DNS over HTTPS profile. Not affiliated with Locket and does not unlock paid features.</string>
+	<key>PayloadDisplayName</key>
+	<string>LocketGold_GB</string>
+	<key>PayloadIdentifier</key>
+	<string>vn.gb.locketgold.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Personal</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8E921A10-3E59-4869-933C-6C6AB10C0D34</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
